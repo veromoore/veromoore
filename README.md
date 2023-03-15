@@ -1,4 +1,4 @@
-Hi there!
+Hi there 👋
 
 - 🔭 I’m currently working on Shopify projects
 - 🌱 I’m currently learning Web Development with advanced Javascript
